@@ -2,10 +2,9 @@
 #include <iostream>
 
 using namespace std;
-
+float: 1height;
 int main()
 {
-	float 1height;
 	cin >> 1height;
   cout << "Height = " << 1height << endl;
 	return 0;
