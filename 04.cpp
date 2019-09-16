@@ -1,6 +1,5 @@
 //File: 04.cpp
-//Correct bug that keeps program from compiling.
-//
+//Correct bug that keeps program from compiling
 #include <iostream>
 
 using namespace std;
