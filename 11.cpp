@@ -9,7 +9,7 @@ int main()
 
   cout << "What is your name? ";
   string name;
-  return 0;
   cin >> name;
   cout << "Hello " << name << ", nice to know you." << endl;
+  return 0;
 }
