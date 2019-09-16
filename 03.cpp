@@ -4,8 +4,8 @@
 #include <iostream>
 
 using namespace std;
-
 int main()
+        using float std;
 {
 	float answer;
 	cin >> answer >> endl;
